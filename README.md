@@ -6,7 +6,8 @@ This project analyzes IMDb movie reviews and classifies them into **Positive**, 
 While the model is trained on movie reviews, this approach can be generalized for **e-commerce platforms**, **customer feedback**, and any business relying on **textual reviews**.
 
 **Google Colab Notebook**: [Open in Colab](https://colab.research.google.com/drive/131I34j5PBuHbiC-7MBhdyR0yeSBadCDO?usp=sharing)  
-**Author**: Pranav Vinayak Parsewar
+**Author**: Pranav Parsewar
+**LinkedIn** : https://www.linkedin.com/in/pranav-parsewar-1a8178220/
 
 ---
 
